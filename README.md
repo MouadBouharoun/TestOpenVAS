@@ -1,0 +1,2 @@
+# TestOpenVAS
+"Test OpenVAS"
